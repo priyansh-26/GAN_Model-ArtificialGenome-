@@ -1,0 +1,13 @@
+True Negative: 235
+False Positive: 773
+False Negative: 773
+True Positive: 3227
+------------------------------------
+FPR: 0.7668650793650794
+TPR: 0.80675
+Attacker's Advantage: 0.03988492063492055
+------------------------------------
+Top 1% Accuracy: 0.84
+Top 20% Accuracy: 0.7962037962037962
+Top 40% Accuracy: 0.8112830753869196
+Top 80% Accuracy: 0.8065401897154268

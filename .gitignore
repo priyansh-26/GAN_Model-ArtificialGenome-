@@ -1,0 +1,16 @@
+**/__pycache__/**
+
+# **/models/**
+
+GAN_2000/models/samples/baseline/baseline.pt
+GAN_2000/models/samples/clipping/clipping.pt
+GAN_2000/models/samples/dp/dp.pt
+
+**/models/baseline**/
+**/models/clip**/
+**/models/dp**/
+
+**/data/**
+
+test.ipynb
+test.py
