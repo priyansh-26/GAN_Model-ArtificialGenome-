@@ -116,7 +116,7 @@ if __name__ == "__main__":
     try:
         genomes = pd.read_csv(args.input, sep = ' ', header=None)
     except:
-        print(f"ERROR: {genomes} - input file couldn't be opened")
+        print(f"ERROR: {genomes} - input file couldn't be opened") # type: ignore
         exit()
 
     #load optional arguments, if any
